@@ -24,6 +24,7 @@ To leverage analytical skills and tools to solve real-world business problems, d
 
 📫 Connect with Me 
 I’m open to opportunities, collaborations, and data-driven projects
+
 Gmail - rg3990318@gmail.com
 
 <!--
