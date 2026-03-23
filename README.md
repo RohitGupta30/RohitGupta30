@@ -1,8 +1,8 @@
 Hi, I'm Rohit Gupta 👋
 
-💼 Data Analyst
+💼 Data Analyst 
 
-I am Data Analyst with expertise in transforming raw data into actionable business insights. I specialize in data cleaning, exploratory data analysis (EDA), and building interactive dashboards that support data-driven decision-making.
+I am Fresher Data Analyst with expertise in transforming raw data into actionable business insights. I specialize in data cleaning, exploratory data analysis (EDA), and building interactive dashboards that support data-driven decision-making.
 
 With hands-on project experience in Excel, SQL, Power BI, Tableau, and Python, I focus on identifying trends, uncovering patterns, and creating clear, impactful reports to support data-driven decision-making.
 
