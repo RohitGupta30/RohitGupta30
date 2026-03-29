@@ -28,6 +28,7 @@ To leverage analytical skills and tools to solve real-world business problems, d
 I’m Looking for Data Analyst opportunities and open to collaborations on data-driven projects
 
 Email - rg3990318@gmail.com
+        rohitgupta.302003@gmail.com
 
 <!--
 **RohitGupta30/RohitGupta30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
