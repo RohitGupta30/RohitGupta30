@@ -27,7 +27,7 @@ To leverage analytical skills and tools to solve real-world business problems, d
 
 I’m Looking for Data Analyst opportunities and open to collaborations on data-driven projects
 
-Email - rg3990318@gmail.com
+Email - rohitgupta.302003@gmail.com
         
 
 <!--
